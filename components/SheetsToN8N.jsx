@@ -3,7 +3,7 @@ import React, { useEffect, useMemo, useState } from "react";
 
 const GOOGLE_CLIENT_ID =
   process.env.NEXT_PUBLIC_GOOGLE_CLIENT_ID ||
-  "923015740783-jf88ictnu24ofn4raoul82khbqnvhfpc.apps.googleusercontent.com";
+  "19265018680-6ba2ee602hgbcue9l891pt2heg03hfqb.apps.googleusercontent.com";
 
 export default function SheetsToN8N() {
   // Estado de librerías y auth
