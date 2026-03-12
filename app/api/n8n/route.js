@@ -1,7 +1,7 @@
 // app/api/n8n/route.js
 export const runtime = "edge";
 
-const N8N_URL = "https://auto.n8npoli.io/webhook/da35bcfb-3f79-439e-a368-712400c896b2";
+const N8N_URL = "https://auto.n8npoli.io/webhook/deco-padre";
 
 export async function POST(req) {
   try {
